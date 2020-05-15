@@ -149,7 +149,7 @@ class _ResumeMobileState extends State<ResumeMobile> with TickerProviderStateMix
                   Padding(
                     padding: const EdgeInsets.all(14.0),
                     child: Text(
-                      'Innovative optimized solution seeker. Exited to be at the development phase of my career as'
+                      'Innovative optimized solution seeker. Excited to be at the development phase of my career as'
                           ' Freelance Web and App developer. I am ambitius, enthusiastic, co-operative and eager to learn and develop with new technologies.',
                       style: GoogleFonts.courierPrime(
                         color: Colors.white,
